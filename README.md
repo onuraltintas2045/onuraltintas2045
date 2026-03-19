@@ -1,16 +1,41 @@
-![1711312491570](https://github.com/onuraltintas2045/HeroWidgetApp/assets/102854668/71abe655-8f8d-4cdb-ab20-bcd1a3697585)
-
 <h1 align="center">Hi 👋, I'm Onur Altıntaş</h1>
-<h3 align="center">A passionate iOS Developer from Turkey</h3>
+<h3 align="center">iOS Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/onuraltintass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onuraltintass" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9700938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9700938" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/onurparzival" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="onurparzival" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/onuraltintass" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="onuraltintass" /></a>
+  <a href="mailto:onur.altintas.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="onur.altintas.dev@gmail.com" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
+### 📱 About Me
+- 🚀 Highly selective career path: Selected as **1 of 32 participants** from **5,000+ applicants** (%0.6) for Turkcell's Advanced Swift Bootcamp, and was the **sole iOS Developer Intern** chosen out of **4,500+ applicants** for Nesine's internship program.
+- 🛠️ Extensive experience in developing modular, maintainable applications with **Swift**, **UIKit**, and **SwiftUI**, following **VIPER**, **MVVM**, and **VIP (Clean Swift)** architectures.
+- 🎨 Adheres to **SOLID**, **OOP/POP**, and **Clean Code** principles, focusing on writing production-level, clear code.
+- 🤝 Experienced in cross-functional **Agile/Scrum** environments, contributing to **Code Review**, **Merge Request**, and **CI/CD** workflows.
 
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="50" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
+</p>
+
+**Expertise:**
+- **Languages:** Swift
+- **Technologies/Frameworks:** UIKit, SwiftUI, Core Data, Firebase, WebSocket, RESTful APIs (JSON), Unit/UI Testing (XCTest)
+- **Practices/Tools:** VIPER, MVVM, SOLID, OOP, POP, Object Oriented Design, Design Patterns, Clean Code, Git (MR/PR), CI/CD Workflows, SF Symbols, Figma
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=onuraltintas2045&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Onur's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuraltintas2045&layout=compact&theme=radical&hide=csharp,python,java" alt="Top Languages" height="150" />
+</p>
