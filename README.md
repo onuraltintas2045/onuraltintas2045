@@ -36,6 +36,6 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=onuraltintas2045&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Onur's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuraltintas2045&layout=compact&theme=radical&hide=csharp,python,java" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=onuraltintas2045&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Onur's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=onuraltintas2045&layout=compact&theme=radical&hide=csharp,python,java" alt="Top Languages" height="150" />
 </p>
